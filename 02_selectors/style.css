@@ -1,0 +1,16 @@
+ul {
+  font-weight: bold;
+}
+
+li {
+  color: yellow;
+}
+
+.myClass {
+  color: red;
+}
+
+#myID {
+  color: blue;
+  font-size: 4em;
+}
